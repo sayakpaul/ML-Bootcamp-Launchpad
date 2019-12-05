@@ -1,0 +1,10 @@
+# sym-link wandb
+$ cd /usr/bin
+$ sudo ln -s /home/jupyter/.local/bin/wandb wandb
+
+# enter the following in ~/.bashrc
+$ export PATH=”$PATH:/usr/bin/wandb”
+$ source ~/.bashrc
+
+# login to your wandb account from your working directory
+$ wandb login
