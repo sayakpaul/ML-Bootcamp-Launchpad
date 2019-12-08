@@ -94,4 +94,4 @@ AI Platform helps you achieve all of the above in a pretty customizable way as w
 	- Preparing the images for online prediction
 	- Using AI Platform’s predict jobs to perform inference
 
-We will be using TensorFlow 2.0, Google Cloud Platform and Weights and Biases. Let's get started! 
+We will be using TensorFlow 2.0, Google Cloud Platform and Weights and Biases and Python 3 (of course!). Let's get started! 
