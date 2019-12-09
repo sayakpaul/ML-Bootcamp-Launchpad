@@ -1,0 +1,2 @@
+MODEL_NAME="FlowerClassifier"
+VERSION_NAME="v1"
