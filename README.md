@@ -47,7 +47,7 @@ We will also be using several Google Cloud Platform (GCP) services like AI Platf
     
 -   You don’t have the on-premise infrastructure to support large training workloads of your model. So, you might want to go for Cloud-based VMs that support GPUs easily.
 
-And much more.
+And [much more](https://cloud.google.com/blog/products/ai-machine-learning/how-to-serve-deep-learning-models-using-tensorflow-2-0-with-cloud-functions).
 
 AI Platform helps you achieve all of the above in a pretty customizable way as we will see in this Bootcamp. It does not encourage just one click deployments but it provides you with enough tools to tweak the novel bits necessary for your deployment and prototyping purposes. 
 
