@@ -96,8 +96,4 @@ AI Platform helps you achieve all of the above in a pretty customizable way as w
 
 We will be using TensorFlow 2.0, Google Cloud Platform and Weights and Biases and Python 3 (of course!). Let's get started! 
 
-![](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
-
-![](https://i.ibb.co/3ksSkLz/TF-Full-Color-Primary-Horizontal.png)
-
-![](https://i.ibb.co/y5W1q2Q/Screen-Shot-2019-12-08-at-7-31-51-AM.png)
+![](https://i.ibb.co/c6Rfn9j/Untitled-Diagram-1.png)
