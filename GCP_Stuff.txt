@@ -1,5 +1,5 @@
 # If you are on AI Platform Notebooks, please run the following first:
-$ PROJECT_ID="fast-ai-exploration"
+$ PROJECT_ID="<your-GCP-project-name>"
 $ gcloud config set project $PROJECT_ID
 
 # Prep before inference
