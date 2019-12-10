@@ -1,7 +1,7 @@
 
 # Machine Learning Bootcamp
 
-Contains notebooks prepared for ML Bootcamp organized by Google Developers Launchpad.
+Contains notebooks prepared for a Machine Learning Bootcamp organized by [Google Developers Launchpad](https://developers.google.com/community/launchpad).
 
 Accompanying deck link: http://bit.ly/mlb-sayak. 
 
