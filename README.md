@@ -5,6 +5,12 @@ Contains notebooks prepared for a Machine Learning Bootcamp organized by [Google
 
 Accompanying deck link: http://bit.ly/mlb-sayak. 
 
+## Acknowledgements:
+- The entire team at PyImageSearch
+- [Martin Görner](https://twitter.com/martin_gorner)
+- [Yufeng Guo](https://twitter.com/yufengg)
+- ML-GDE team for granting me GCP Credits to aid this Bootcamp
+
 ## Motivation
 Typical machine learning steps:
 
